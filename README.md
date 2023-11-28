@@ -14,7 +14,6 @@ To use the Banana Grade Classifier, you can simply
 1) install the requirement.txt file
 Then run the command 
 2) Uvicorn main:app --reload 
-3) For frontend go to the frontend and use the readme.nd there to run the frontend part.
 
 # Technologies Used
 Python
