@@ -26,6 +26,6 @@ Matplotlib
 Fastapi
 
 
-## Author: Vandit Tyagi
+## Author: Neha Dhruw
 ## License
 This project is licensed under the MIT License. Feel free to use and modify this code as per your requirement
